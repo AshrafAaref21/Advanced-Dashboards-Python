@@ -30,7 +30,7 @@ Prepare your dataset:
 
 
 
-![logo](https://github.com/AshrafAaref21/Netflix-Recommender-System/blob/main/screenshot.png?raw=true)
+![logo](https://github.com/AshrafAaref21/Advanced-Dashboards-Python/blob/main/dashboard_logo.jpg?raw=true)
 
 
 ## 🚀 About Me
