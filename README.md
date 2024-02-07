@@ -17,7 +17,6 @@ To run a Streamlit deployment tests, run the following command
 
 ### Steps To Deploy The App:
 
-Prepare your dataset:
 
         1. Data Extraction
         2. Exploratory Data Analysis(EDA)
